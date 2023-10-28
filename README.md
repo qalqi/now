@@ -14,6 +14,8 @@ Our vision is to empower individuals and businesses across the globe to construc
 
 This project not only facilitates language-inclusive digital development but also champions cultural diversity on the web, fostering a more enriched and inclusive online experience. Embrace the "Now" initiative and unlock the full potential of the digital world in your preferred language!
 
+Apps:
+[1234](https://qrd.at/1234)https://qrd.at/1234 - A game to learn letters of new languages in an explorative way
 
 
 
