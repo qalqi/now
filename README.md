@@ -5,4 +5,4 @@
 #### сейчас
 #### ఇప్పుడు
 
-Universal Multilingual Development tools and apps
+Initiative for Universal Multilingual Development: Frameworks, Tools and Apps in the Open Source Ecosystem
