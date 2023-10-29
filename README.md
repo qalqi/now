@@ -19,8 +19,9 @@ Apps:
 [1234](https://qrd.at/1234) - A game to learn letters of new languages in an explorative way
 
 Resources:
-https://esprima.org/
-https://gruntjs.com/getting-started
-https://github.com/kuafuai/DevOpsGPT/tree/master
+<br />
+https://esprima.org/ <br />
+https://gruntjs.com/getting-started <br />
+https://github.com/kuafuai/DevOpsGPT/tree/master <br />
 
 
