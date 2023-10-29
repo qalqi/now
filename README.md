@@ -18,6 +18,9 @@ This project not only facilitates language-inclusive digital development but als
 Apps:
 [1234](https://qrd.at/1234) - A game to learn letters of new languages in an explorative way
 
-
+Resources:
+https://esprima.org/
+https://gruntjs.com/getting-started
+https://github.com/kuafuai/DevOpsGPT/tree/master
 
 
