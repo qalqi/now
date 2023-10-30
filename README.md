@@ -19,8 +19,9 @@ Our vision is to empower individuals and businesses across the globe to construc
 
 This project not only facilitates language-inclusive digital development but also champions cultural diversity on the web, fostering a more enriched and inclusive online experience. Embrace the "Now" initiative and unlock the full potential of the digital world in your preferred language! 
 
-Apps:
+Libraries:
 [p5.js](https://github.com/qalqi/p5.js) - p5.js in i18n languages (French, Hindi, Telugu, Russian Added)
+Apps:
  <br />
 [1234](https://qrd.at/1234) - A game to learn letters of new languages in an explorative way
 
@@ -28,6 +29,6 @@ Resources:
 <br />
 https://esprima.org/ <br />
 https://gruntjs.com/getting-started <br />
-https://github.com/kuafuai/DevOpsGPT/tree/master <br />
+
 
 
