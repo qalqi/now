@@ -22,6 +22,8 @@ This project not only facilitates language-inclusive digital development but als
 Libraries:
 <br />
 [p5.js](https://github.com/qalqi/p5.js) - p5.js in i18n languages (French, Hindi, Telugu, Russian Added)
+<br />
+[qi](https://github.com/qalqi/qi) - Qi - An Exploratory Draft: Pioneering a Universal Language for Writing Smart Contracts on EVM-Compatible Blockchains Such as ETH, BSC, and Avalanche etc
 Apps:
 <br />
 [1234](https://qrd.at/1234) - A game to learn letters of new languages in an explorative way
