@@ -32,6 +32,6 @@ Resources:
 <br />
 https://esprima.org/ <br />
 https://gruntjs.com/getting-started <br />
-
+There are only two hard things in Computer Science: cache invalidation and naming things. [-- Phil Karlton](https://www.karlton.org/2017/12/naming-things-hard/#google_vignette)
 
 
